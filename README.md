@@ -1,5 +1,5 @@
 # User-Driven Password 
-The User-Driven Password Generator is a React application that allows users to generate passwords based on their specifications. Users can customize the length of the password and choose whether to include special characters and numbers.
+The User-Driven Password Generator is a React application that allows users to generate password tailored to their preferences, adjusting its length, including special characters and numbers. Furthermore, the generated password is instantly updated as you make changes.
 
 Click [here](https://amancantgit.github.io/Password-Craft/) to open.
 
