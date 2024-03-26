@@ -3,6 +3,8 @@ The User-Driven Password Generator is a React application that allows users to g
 
 Click [here](https://amancantgit.github.io/Password-Craft/) to open.
 
+[Password Craft](https://amancantgit.github.io/Password-Craft/)
+
 - ## Features
 - **Dark Mode:** Toggle between light and dark mode for improved readability and visual preferences.
 - **Password Generation:** Generate passwords based on user-defined specifications, including length, special characters, and numbers.
