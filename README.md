@@ -9,7 +9,7 @@ The User-Driven Password Generator is a React application that allows users to g
 - **Real-Time Password Display:** View the generated password in real-time as users adjust their preferences.
 
 ## Technologies used: 
-React.js, JavaScript, HTML & CSS
+React.js, JavaScript, HTML & Tailwind CSS
 
 ## Getting Started
 1. Clone the repository to your local machine.
