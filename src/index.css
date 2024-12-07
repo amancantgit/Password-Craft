@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+input[type="range"] {
+  height: 6px;
+  border-radius: 10px;
+  outline: none;
+}
+
+input[type="checkbox"]:checked {
+  background-color: #4c8bf5;
+  border-color: #4c8bf5;
+}
+
+input[type="checkbox"]:focus {
+  outline: 2px solid #4c8bf5;
+}
+
+button {
+  background-color: #4285f9;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #307afa;
+}
+
+button:active {
+  transform: scale(0.98);
+}
